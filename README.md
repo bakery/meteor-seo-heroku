@@ -22,4 +22,4 @@ heroku config:set ROOT_URL=https://<NAME-OF-THE-APP>.herokuapp.com/
 git push heroku master
 ```
 
-- check in [Open Graph Object Debugger](https://developers.facebook.com/tools/debug/og/object/) and using **_escaped_fragment_** [https://<NAME-OF-THE-APP>.herokuapp.com/?_escaped_fragment_=](https://<NAME-OF-THE-APP>.herokuapp.com/?_escaped_fragment_=)
+- check in [Open Graph Object Debugger](https://developers.facebook.com/tools/debug/og/object/) and using **_escaped_fragment_** [https://meteor-seo-heroku.herokuapp.com/?_escaped_fragment_=](https://<NAME-OF-THE-APP>.herokuapp.com/?_escaped_fragment_=)
